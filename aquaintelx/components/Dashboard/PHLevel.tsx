@@ -90,7 +90,7 @@ const data = [
   }
 ];
 
-export const ActivityGraph = () => {
+export const PHLevel = () => {
   return (
     <div className="col-span-8 overflow-hidden rounded border border-stone-300">
       <div className="p-4">
